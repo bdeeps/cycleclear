@@ -1,0 +1,126 @@
+{
+  "slug": "cycleclear",
+  "box": 3,
+  "question": "How does a bicycle work?",
+  "url": "https://glassbox-production-fd52.up.railway.app/e/cycleclear/",
+  "app": "https://glassbox-production-fd52.up.railway.app/cycleclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "200 years from a wooden running machine to the e-bike.\n\n1817: The running machine\n1864: Pedals on the front wheel\n1869: Wheels of tensioned wire\n1871: The high wheeler\n1880: The bush roller chain\n1885: The safety bicycle\n\nThe full story, with 26 moments, sources and charts: glassbox-production-fd52.up.railway.app/e/cycleclear/history (link in bio)\n\nThen play with how it works: glassbox-production-fd52.up.railway.app/cycleclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #bicycle #bike #cycling #gears #physics #engineering #history",
+      "youtube": {
+        "title": "The history of the bicycle in 45 seconds #shorts",
+        "description": "200 years from a wooden running machine to the e-bike.\n\n1817 · The running machine (Karl Drais)\n1864 · Pedals on the front wheel (Pierre Michaux, Pierre Lallement and others)\n1869 · Wheels of tensioned wire (Eugène Meyer)\n1871 · The high wheeler (James Starley and William Hillman (Ariel))\n1880 · The bush roller chain (Hans Renold)\n1885 · The safety bicycle (John Kemp Starley (Rover))\n\n▶ Full history: https://glassbox-production-fd52.up.railway.app/e/cycleclear/history/\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/cycleclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does a bicycle work?\n\nTwo triangles, a chain and a wheel of thin wires, and a machine that balances itself. Take a bicycle apart in 3D and ride its physics.\n\n→ A bicycle is two triangles, two wheels, a chain and a way to steer.\n→ Triangles can’t change shape, so thin tubes make a light, stiff frame.\n→ Gears trade effort for speed: a smaller rear cog turns the wheel more per pedal stroke.\n→ On a hill, part of gravity pulls you back. A bigger rear cog shrinks the push you need.\n→ Too slow, and a bicycle wobbles and falls over.\n\nPlay with it yourself. It's free and open source: glassbox-production-fd52.up.railway.app/cycleclear (link in bio)\n\nBox No. 003 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #bicycle #bike #cycling #gears #physics #engineering #threejs",
+    "carousel": "Swipe through: How does a bicycle work?\n\nTwo triangles, a chain and a wheel of thin wires, and a machine that balances itself. Take a bicycle apart in 3D and ride its physics.\n\nSave this for later, then play with the interactive version at glassbox-production-fd52.up.railway.app/cycleclear (link in bio).\n\nBox No. 003 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #bicycle #bike #cycling #gears #physics #engineering",
+    "youtube": {
+      "title": "How does a bicycle work? #shorts",
+      "description": "Two triangles, a chain and a wheel of thin wires, and a machine that balances itself. Take a bicycle apart in 3D and ride its physics.\n\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/cycleclear/\n⌘ Source code (MIT): https://github.com/bdeeps/cycleclear\n\nBox No. 003 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does a bicycle work? (interactive explainer)",
+      "description": "Two triangles, a chain and a wheel of thin wires, and a machine that balances itself. Take a bicycle apart in 3D and ride its physics.\n\n▶ Play with the interactive version: https://glassbox-production-fd52.up.railway.app/e/cycleclear/\n⌘ Source code (MIT): https://github.com/bdeeps/cycleclear\n\nIn this video:\n• A frame of two triangles. Most bikes use a diamond frame: two triangles sharing the seat tube.\n• A chain links pedals to wheel. Your feet turn the cranks and the front chainring.\n• Gears trade effort for speed. The gear ratio is front teeth divided by rear teeth.\n• A moving bike balances itself. When a moving bike leans, its front wheel steers into the lean, bringing the wheels back under it.\n• Wheels hang on tensioned spokes. Every spoke is pulled tight to about 1,000 newtons.\n• Brakes turn motion into heat. Stopping means getting rid of kinetic energy, which grows with the square of speed.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does a bicycle work?\n\nTwo triangles, a chain and a wheel of thin wires, and a machine that balances itself.\n\nPlay with it: https://glassbox-production-fd52.up.railway.app/e/cycleclear/",
+    "linkedin": "How does a bicycle work?\n\nTwo triangles, a chain and a wheel of thin wires, and a machine that balances itself. Take a bicycle apart in 3D and ride its physics.\n\n1. A frame of two triangles\n2. A chain links pedals to wheel\n3. Gears trade effort for speed\n4. A moving bike balances itself\n5. Wheels hang on tensioned spokes\n6. Brakes turn motion into heat\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 003 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox-production-fd52.up.railway.app/e/cycleclear/\nCode: https://github.com/bdeeps/cycleclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-09-27T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-09-26T17:15:26.929Z"
+}

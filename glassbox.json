@@ -1,0 +1,95 @@
+{
+  "slug": "cycleclear",
+  "box": 3,
+  "date": "2026-09-26",
+  "title": "CycleClear",
+  "question": "How does a bicycle work?",
+  "hook": "Two triangles, a chain and a wheel of thin wires, and a machine that balances itself. Take a bicycle apart in 3D and ride its physics.",
+  "thumbText": "HOW A BICYCLE WORKS",
+  "field": "machines",
+  "minutes": 15,
+  "tags": [
+    "bicycle",
+    "bike",
+    "cycling",
+    "gears",
+    "physics",
+    "engineering",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A frame of two triangles",
+      "text": "Most bikes use a diamond frame: two triangles sharing the seat tube. A triangle can't change shape unless one side changes length, so thin, light tubes make a stiff frame."
+    },
+    {
+      "title": "A chain links pedals to wheel",
+      "text": "Your feet turn the cranks and the front chainring. The chain carries every tooth's movement to a small cog on the back wheel, so the wheel turns with you."
+    },
+    {
+      "title": "Gears trade effort for speed",
+      "text": "The gear ratio is front teeth divided by rear teeth. A small rear cog gives more distance per pedal stroke but needs more force; a big one makes hills easier but slower."
+    },
+    {
+      "title": "A moving bike balances itself",
+      "text": "When a moving bike leans, its front wheel steers into the lean, bringing the wheels back under it. Above about 15 km/h, many bikes catch every wobble on their own. Lock the handlebars and it falls."
+    },
+    {
+      "title": "Wheels hang on tensioned spokes",
+      "text": "Every spoke is pulled tight to about 1,000 newtons. When you sit on the bike, only the spokes at the bottom change: they lose some tension. The rest hold the rim round."
+    },
+    {
+      "title": "Brakes turn motion into heat",
+      "text": "Stopping means getting rid of kinetic energy, which grows with the square of speed. Brake pads grip a disc or rim and friction turns that energy into heat."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Gear ratio",
+      "def": "Front teeth divided by rear teeth: how many times the wheel turns for each turn of the pedals."
+    },
+    {
+      "term": "Cadence",
+      "def": "How fast you pedal, in revolutions per minute."
+    },
+    {
+      "term": "Trail",
+      "def": "How far behind the steering axis the front tyre touches the ground. It helps the front wheel steer into a lean."
+    },
+    {
+      "term": "Self-stability",
+      "def": "A moving bicycle's ability to correct a lean without a rider."
+    },
+    {
+      "term": "Spoke tension",
+      "def": "The pull built into every spoke, which lets thin wires carry a rider's weight."
+    },
+    {
+      "term": "Kinetic energy",
+      "def": "The energy of motion, equal to half the mass times the speed squared."
+    },
+    {
+      "term": "Torque",
+      "def": "A turning force: force multiplied by the length of the lever it pushes on."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "cycleclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

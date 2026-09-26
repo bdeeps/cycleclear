@@ -1,0 +1,763 @@
+{
+  "title": "The history of the bicycle",
+  "tagline": "200 years from a wooden running machine to the e-bike.",
+  "intro": "The bicycle came late. It needed no new science, only a good idea: that you can balance on two wheels in a line if you keep moving. A German forester proved it in 1817 by running on a wooden frame. Pedals, huge front wheels, chains, air-filled tyres and gears followed in a rush, and the bicycle went on to free women, build aeroplanes, fill the streets of China and win back the cities of today.",
+  "eras": [
+    {
+      "id": "running",
+      "name": "Running machines",
+      "from": 1817,
+      "to": 1860,
+      "color": "#c49bff",
+      "summary": "No pedals yet. Riders sit on a frame between two wheels and push along the ground with their feet."
+    },
+    {
+      "id": "pedals",
+      "name": "Pedals and high wheels",
+      "from": 1860,
+      "to": 1885,
+      "color": "#ffb547",
+      "summary": "Pedals go straight onto the front wheel, and the wheel grows huge to go faster."
+    },
+    {
+      "id": "safety",
+      "name": "The safety bicycle and the bike boom",
+      "from": 1885,
+      "to": 1930,
+      "color": "#ff7a59",
+      "summary": "A chain to the rear wheel, air-filled tyres and equal-sized wheels: the shape we still ride, and a craze that changed society."
+    },
+    {
+      "id": "gears",
+      "name": "Gears, races and a world on two wheels",
+      "from": 1930,
+      "to": 1990,
+      "color": "#5ce1a9",
+      "summary": "Derailleurs, quick-release wheels, mass production in China, and new kinds of bike for mountains."
+    },
+    {
+      "id": "modern",
+      "name": "Electric, shared and better understood",
+      "from": 1990,
+      "to": 2026,
+      "color": "#8ef0ff",
+      "summary": "Motors that help you pedal, bikes you can hire on any street corner, and science that finally explains balance."
+    }
+  ],
+  "events": [
+    {
+      "year": 1817,
+      "date": "12 June 1817",
+      "era": "running",
+      "art": "hobbyhorse",
+      "key": true,
+      "title": "The running machine",
+      "who": "Karl Drais",
+      "where": "Mannheim, Germany",
+      "country": "Germany",
+      "text": "Drais rode his Laufmaschine, a wooden frame with two in-line wheels and a steerable front, from Mannheim to a coaching inn and back, about 13 km in a little over an hour: faster than walking. Some historians link the invention to the “Year Without a Summer” of 1816, when failed harvests made horses costly to feed, but the link is debated.",
+      "why": "It proved that you can balance on two wheels in a line as long as you keep moving and can steer.",
+      "box": "balance",
+      "sources": [
+        2,
+        1,
+        26
+      ]
+    },
+    {
+      "year": 1819,
+      "date": "1818–1819",
+      "era": "running",
+      "art": "hobbyhorse",
+      "title": "The hobby horse craze",
+      "who": "Denis Johnson",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "London coachmaker Denis Johnson built an improved version, the “pedestrian curricle”. Fashionable young men rode “hobby horses” or “dandy horses” until the fad faded, partly because riders on pavements annoyed pedestrians.",
+      "why": "The first bike boom, and the first complaints about cyclists.",
+      "sources": [
+        1
+      ]
+    },
+    {
+      "year": 1839,
+      "date": "c. 1839",
+      "era": "running",
+      "art": "velocipede",
+      "title": "Treadles to the rear wheel?",
+      "who": "Kirkpatrick Macmillan (attributed)",
+      "where": "Dumfriesshire, Scotland",
+      "country": "United Kingdom",
+      "text": "Macmillan, a blacksmith, is said to have built a two-wheeler driven by treadles and rods to the rear wheel. The evidence is thin and historians still argue about it.",
+      "why": "A reminder that ‘who was first’ is often uncertain.",
+      "sources": [
+        25
+      ]
+    },
+    {
+      "year": 1864,
+      "date": "1860s",
+      "era": "pedals",
+      "art": "velocipede",
+      "key": true,
+      "title": "Pedals on the front wheel",
+      "who": "Pierre Michaux, Pierre Lallement and others",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "French makers fitted cranks and pedals straight onto the front wheel. The Michaux company began producing these velocipedes in quantity in the late 1860s. On cobbled streets their iron tyres earned them the nickname “boneshakers”.",
+      "why": "For the first time, a rider could keep their feet off the ground.",
+      "box": "drivetrain",
+      "sources": [
+        3,
+        4
+      ]
+    },
+    {
+      "year": 1866,
+      "date": "20 November 1866",
+      "era": "pedals",
+      "art": "velocipede",
+      "title": "The first bicycle patent in the US",
+      "who": "Pierre Lallement",
+      "where": "New Haven, Connecticut, USA",
+      "country": "United States",
+      "text": "Lallement, a French mechanic who had moved to the United States, patented a two-wheeled velocipede with pedals on the front wheel.",
+      "why": "The design spread across the Atlantic.",
+      "sources": [
+        4
+      ]
+    },
+    {
+      "year": 1868,
+      "date": "31 May 1868",
+      "era": "pedals",
+      "art": "trophy",
+      "title": "The first recorded bike race",
+      "who": "James Moore",
+      "where": "Parc de Saint-Cloud, Paris, France",
+      "country": "France",
+      "text": "A 1,200 m race in the park of Saint-Cloud is often cited as the first recorded bicycle race. It was won by James Moore, an English rider living in France.",
+      "why": "Racing drove bicycle design from the start.",
+      "sources": [
+        27,
+        0
+      ]
+    },
+    {
+      "year": 1869,
+      "date": "1869",
+      "era": "pedals",
+      "art": "spokes",
+      "key": true,
+      "title": "Wheels of tensioned wire",
+      "who": "Eugène Meyer",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "Meyer built wheels whose thin wire spokes were pulled tight, instead of heavy wooden spokes that push. The rim is held in shape by tension from every side.",
+      "why": "Light, strong wheels made bigger, faster bicycles possible, and every spoked wheel since works this way.",
+      "box": "wheel",
+      "sources": [
+        22
+      ]
+    },
+    {
+      "year": 1871,
+      "date": "1870–1871",
+      "era": "pedals",
+      "art": "pennyfarthing",
+      "key": true,
+      "title": "The high wheeler",
+      "who": "James Starley and William Hillman (Ariel)",
+      "where": "Coventry, England",
+      "country": "United Kingdom",
+      "text": "With the pedals fixed to the front wheel, the only way to go further per pedal turn was a bigger wheel. Front wheels grew to 1.5 m across. Later nicknamed “penny-farthings”, they were fast but dangerous: a bump could pitch the rider headfirst over the bars.",
+      "why": "A giant wheel was a gear ratio you could see. Chains would soon do the same job safely.",
+      "box": "drivetrain",
+      "sources": [
+        5
+      ]
+    },
+    {
+      "year": 1880,
+      "date": "1880",
+      "era": "pedals",
+      "art": "chain",
+      "key": true,
+      "title": "The bush roller chain",
+      "who": "Hans Renold",
+      "where": "Manchester, England",
+      "country": "United Kingdom",
+      "text": "Swiss-born engineer Hans Renold invented the bush roller chain, whose rollers turn on bushes to cut friction and wear. It became the chain used on almost every bicycle.",
+      "why": "A reliable chain made it possible to drive the rear wheel and choose any gear ratio.",
+      "box": "drivetrain",
+      "sources": [
+        21
+      ]
+    },
+    {
+      "year": 1885,
+      "date": "1885",
+      "era": "safety",
+      "art": "bicycle",
+      "key": true,
+      "title": "The safety bicycle",
+      "who": "John Kemp Starley (Rover)",
+      "where": "Coventry, England",
+      "country": "United Kingdom",
+      "text": "Starley's Rover had two wheels of similar size, a chain driving the rear wheel, and a steerable front with the rider sitting between the wheels. Gearing replaced the giant wheel, so it was fast and much safer.",
+      "why": "It's the basic shape of almost every bicycle since.",
+      "box": "anatomy",
+      "sources": [
+        6,
+        7
+      ]
+    },
+    {
+      "year": 1888,
+      "date": "1888",
+      "era": "safety",
+      "art": "tyre",
+      "key": true,
+      "title": "The air-filled tyre",
+      "who": "John Boyd Dunlop",
+      "where": "Belfast, Ireland",
+      "country": "United Kingdom",
+      "text": "Dunlop, a vet, made air-filled tyres for his son's tricycle to smooth out bumpy roads, and patented them. Robert William Thomson had patented a pneumatic tyre in the 1840s, but it hadn't caught on.",
+      "why": "Comfort and speed together. Pneumatic tyres went on to every car.",
+      "sources": [
+        8
+      ]
+    },
+    {
+      "year": 1895,
+      "date": "June 1894 – September 1895",
+      "era": "safety",
+      "art": "earth",
+      "title": "Around the world on a bicycle",
+      "who": "Annie Londonderry",
+      "where": "Boston, USA, and around the world",
+      "country": "United States",
+      "text": "Annie Cohen Kopchovsky, riding as “Annie Londonderry”, set off from Boston and returned about fifteen months later, having travelled around the world by bicycle and steamship.",
+      "why": "Widely called the first woman to cycle around the world, at a time when women riding at all was controversial.",
+      "sources": [
+        20
+      ]
+    },
+    {
+      "year": 1896,
+      "date": "2 February 1896",
+      "era": "safety",
+      "art": "bicycle",
+      "key": true,
+      "title": "“Done more to emancipate women”",
+      "who": "Susan B. Anthony",
+      "where": "New York, USA",
+      "country": "United States",
+      "text": "In an interview with the journalist Nellie Bly, the suffragist Susan B. Anthony said she thought the bicycle had done more to emancipate women than anything else in the world. Bicycles gave women independent travel and helped change clothing and ideas about what women could do.",
+      "why": "The bicycle was a social machine as much as a mechanical one.",
+      "sources": [
+        19
+      ]
+    },
+    {
+      "year": 1898,
+      "date": "1898",
+      "era": "safety",
+      "art": "gear",
+      "title": "Freewheels and coaster brakes",
+      "who": "New Departure and others",
+      "where": "Bristol, Connecticut, USA",
+      "country": "United States",
+      "text": "A freewheel lets the rear wheel keep turning while the pedals stay still, so riders can coast. Coaster brakes, worked by pedalling backwards, followed.",
+      "why": "You no longer had to pedal every second the wheels turned.",
+      "box": "drivetrain",
+      "sources": [
+        24
+      ]
+    },
+    {
+      "year": 1902,
+      "date": "1902",
+      "era": "safety",
+      "art": "gear",
+      "title": "Gears hidden in the hub",
+      "who": "Sturmey-Archer",
+      "where": "Nottingham, England",
+      "country": "United Kingdom",
+      "text": "The Sturmey-Archer three-speed hub hid a set of planetary gears inside the rear hub, so riders could switch gears with a lever.",
+      "why": "Gears for everyday riders, sealed away from mud.",
+      "box": "hills",
+      "sources": [
+        12
+      ]
+    },
+    {
+      "year": 1903,
+      "date": "1 July 1903",
+      "era": "safety",
+      "art": "trophy",
+      "key": true,
+      "title": "The first Tour de France",
+      "who": "Henri Desgrange and L'Auto; won by Maurice Garin",
+      "where": "France",
+      "country": "France",
+      "text": "Created to sell newspapers, the first Tour covered about 2,400 km in six stages, some ridden through the night. Maurice Garin won.",
+      "why": "It became the world's most famous bike race.",
+      "sources": [
+        9
+      ]
+    },
+    {
+      "year": 1903,
+      "date": "17 December 1903",
+      "era": "safety",
+      "art": "plane",
+      "key": true,
+      "title": "Bicycle makers fly",
+      "who": "Wilbur and Orville Wright",
+      "where": "Kitty Hawk, North Carolina, USA",
+      "country": "United States",
+      "text": "The Wright brothers ran a bicycle shop in Dayton, Ohio. They used its tools, its chain drives and their understanding of balance and control to build the first successful powered aeroplane.",
+      "why": "Balancing a bike taught them that a pilot must actively control an aircraft, not just keep it steady.",
+      "box": "balance",
+      "sources": [
+        10
+      ]
+    },
+    {
+      "year": 1930,
+      "date": "1930",
+      "era": "gears",
+      "art": "tyre",
+      "title": "The quick-release wheel",
+      "who": "Tullio Campagnolo",
+      "where": "Vicenza, Italy",
+      "country": "Italy",
+      "text": "Racer Tullio Campagnolo, the story goes, lost time in a race struggling to undo frozen wing nuts with cold hands. He invented a lever that frees a wheel in seconds.",
+      "why": "Quick changes of wheels and tyres became normal.",
+      "sources": [
+        23
+      ]
+    },
+    {
+      "year": 1949,
+      "date": "1949–1950",
+      "era": "gears",
+      "art": "chain",
+      "key": true,
+      "title": "The modern derailleur",
+      "who": "Campagnolo (Gran Sport)",
+      "where": "Vicenza, Italy",
+      "country": "Italy",
+      "text": "Earlier derailleurs existed, but Campagnolo's Gran Sport used a parallelogram that moved the chain cleanly between cogs, setting the pattern for the derailleurs on most bikes today.",
+      "why": "Many gears, shifted while riding.",
+      "box": "drivetrain",
+      "sources": [
+        11,
+        23
+      ]
+    },
+    {
+      "year": 1950,
+      "date": "1950",
+      "era": "gears",
+      "art": "bicycle",
+      "key": true,
+      "title": "The Flying Pigeon",
+      "who": "Tianjin Flying Pigeon Bicycle Factory",
+      "where": "Tianjin, China",
+      "country": "China",
+      "text": "The heavy, black Flying Pigeon PA-02 became a symbol of modern China. Tens of millions were made, and for decades the streets of Chinese cities were rivers of bicycles.",
+      "why": "Often called the most widely used vehicle in history.",
+      "sources": [
+        13
+      ]
+    },
+    {
+      "year": 1965,
+      "date": "1965",
+      "era": "gears",
+      "art": "share",
+      "title": "The first bike share",
+      "who": "Provo (the White Bicycle Plan)",
+      "where": "Amsterdam, Netherlands",
+      "country": "Netherlands",
+      "text": "Activists painted bicycles white and left them unlocked for anyone to use. Most were stolen or impounded, but the idea stuck.",
+      "why": "The ancestor of bike-share schemes in cities around the world.",
+      "sources": [
+        15
+      ]
+    },
+    {
+      "year": 1977,
+      "date": "1977",
+      "era": "gears",
+      "art": "mountain",
+      "key": true,
+      "title": "The mountain bike",
+      "who": "Joe Breeze, with Gary Fisher, Charles Kelly and others",
+      "where": "Marin County, California, USA",
+      "country": "United States",
+      "text": "Riders racing old bikes down Mount Tamalpais wanted something tougher. Joe Breeze built the Breezer, one of the first purpose-built mountain bikes, with wide tyres, strong brakes and many gears.",
+      "why": "A new kind of cycling, and bikes that go almost anywhere.",
+      "box": "brakes",
+      "sources": [
+        14
+      ]
+    },
+    {
+      "year": 1993,
+      "date": "1993",
+      "era": "modern",
+      "art": "bolt",
+      "key": true,
+      "title": "The mass-produced e-bike",
+      "who": "Yamaha (PAS)",
+      "where": "Japan",
+      "country": "Japan",
+      "text": "Yamaha's Power Assist System added a motor that helps only while you pedal, in proportion to your effort. It's the model most e-bikes follow.",
+      "why": "Hills and long commutes became easy for many more people.",
+      "box": "hills",
+      "sources": [
+        16
+      ]
+    },
+    {
+      "year": 2007,
+      "date": "July 2007",
+      "era": "modern",
+      "art": "share",
+      "title": "Bike share goes big",
+      "who": "Vélib'",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "Paris launched Vélib' with thousands of bikes in docking stations across the city, showing that public bikes could work at scale.",
+      "why": "It started a wave of bike-share schemes around the world.",
+      "sources": [
+        15
+      ]
+    },
+    {
+      "year": 2011,
+      "date": "April 2011",
+      "era": "modern",
+      "art": "bicycle",
+      "key": true,
+      "title": "The science of balance",
+      "who": "Kooijman, Meijaard, Papadopoulos, Ruina and Schwab",
+      "where": "Delft, Netherlands, and Ithaca, USA",
+      "country": "Netherlands",
+      "text": "Writing in Science, the team built a strange bicycle with no gyroscopic effect and no trail, and showed it could still balance itself. What matters is how the bike's mass is arranged, so the front steers into a lean.",
+      "why": "After nearly 200 years, it overturned two popular explanations of why bikes stay up.",
+      "box": "balance",
+      "sources": [
+        17
+      ]
+    },
+    {
+      "year": 2022,
+      "date": "8 October 2022",
+      "era": "modern",
+      "art": "trophy",
+      "title": "56.792 km in one hour",
+      "who": "Filippo Ganna",
+      "where": "Grenchen, Switzerland",
+      "country": "Switzerland",
+      "text": "On an indoor track, the Italian rider covered 56.792 km in an hour, the UCI hour record.",
+      "why": "Aerodynamics, gearing and training have taken the record up by more than 20 km since the 1890s.",
+      "sources": [
+        18
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Two-wheeled running machine",
+      "value": "1817",
+      "who": "Karl Drais, Germany"
+    },
+    {
+      "label": "Pedals on the front wheel",
+      "value": "1860s",
+      "who": "Michaux and Lallement, France"
+    },
+    {
+      "label": "Recorded bike race",
+      "value": "1868",
+      "who": "Saint-Cloud, France"
+    },
+    {
+      "label": "Safety bicycle",
+      "value": "1885",
+      "who": "John Kemp Starley, England"
+    },
+    {
+      "label": "Pneumatic bicycle tyre",
+      "value": "1888",
+      "who": "John Boyd Dunlop, Ireland"
+    },
+    {
+      "label": "Tour de France",
+      "value": "1903",
+      "who": "France"
+    }
+  ],
+  "people": [
+    {
+      "name": "Karl Drais",
+      "life": "1785 – 1851",
+      "role": "Forester and inventor",
+      "from": "Germany",
+      "note": "Invented the two-wheeled running machine."
+    },
+    {
+      "name": "Pierre Lallement",
+      "life": "1843 – 1891",
+      "role": "Mechanic",
+      "from": "France and USA",
+      "note": "Early pedal velocipede maker; patented it in the US."
+    },
+    {
+      "name": "James Starley",
+      "life": "1830 – 1881",
+      "role": "Inventor",
+      "from": "England",
+      "note": "Built the Ariel high wheeler; called the father of the bicycle industry."
+    },
+    {
+      "name": "John Kemp Starley",
+      "life": "1854 – 1901",
+      "role": "Inventor and manufacturer",
+      "from": "England",
+      "note": "Designed the Rover safety bicycle."
+    },
+    {
+      "name": "John Boyd Dunlop",
+      "life": "1840 – 1921",
+      "role": "Veterinary surgeon",
+      "from": "Scotland and Ireland",
+      "note": "Developed the air-filled bicycle tyre."
+    },
+    {
+      "name": "Susan B. Anthony",
+      "life": "1820 – 1906",
+      "role": "Suffragist",
+      "from": "USA",
+      "note": "Said the bicycle had done more to emancipate women than anything else."
+    },
+    {
+      "name": "Annie Londonderry",
+      "life": "1870 – 1947",
+      "role": "Adventurer",
+      "from": "Latvia and USA",
+      "note": "Travelled around the world with her bicycle in 1894–95."
+    },
+    {
+      "name": "Wilbur & Orville Wright",
+      "life": "1867 – 1912 · 1871 – 1948",
+      "role": "Bicycle makers and aviators",
+      "from": "USA",
+      "note": "Used their bicycle know-how to build the first powered aeroplane."
+    },
+    {
+      "name": "Tullio Campagnolo",
+      "life": "1901 – 1983",
+      "role": "Racer and inventor",
+      "from": "Italy",
+      "note": "Invented the quick release and the modern derailleur."
+    },
+    {
+      "name": "Joe Breeze",
+      "life": "born 1953",
+      "role": "Frame builder",
+      "from": "USA",
+      "note": "Built one of the first purpose-built mountain bikes."
+    }
+  ],
+  "series": [
+    {
+      "id": "hour",
+      "title": "The hour record: how far in 60 minutes",
+      "unit": "km",
+      "log": false,
+      "after": "modern",
+      "caption": "Landmark hour records on the track. Better bikes, better aerodynamics and better training added more than 20 km.",
+      "points": [
+        {
+          "year": 1893,
+          "value": 35.325,
+          "label": "Henri Desgrange, Paris: 35.325 km"
+        },
+        {
+          "year": 1942,
+          "value": 45.798,
+          "label": "Fausto Coppi, Milan: 45.798 km"
+        },
+        {
+          "year": 1972,
+          "value": 49.431,
+          "label": "Eddy Merckx, Mexico City: 49.431 km"
+        },
+        {
+          "year": 2015,
+          "value": 54.526,
+          "label": "Bradley Wiggins, London: 54.526 km"
+        },
+        {
+          "year": 2022,
+          "value": 56.792,
+          "label": "Filippo Ganna, Grenchen: 56.792 km"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "The Wright brothers built their first aeroplane with skills and tools from their bicycle shop.",
+    "A penny-farthing's front wheel was huge because the pedals turned it directly: bigger wheel, more distance per pedal turn.",
+    "A moving bicycle can balance itself with no rider, as long as it's going fast enough.",
+    "In 1896 Susan B. Anthony said the bicycle had done more to emancipate women than anything else in the world.",
+    "The first Tour de France was created to sell a newspaper."
+  ],
+  "sources": [
+    {
+      "title": "History of the bicycle",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_bicycle"
+    },
+    {
+      "title": "Dandy horse",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dandy_horse"
+    },
+    {
+      "title": "Karl Drais",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Karl_Drais"
+    },
+    {
+      "title": "Velocipede",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Velocipede"
+    },
+    {
+      "title": "Pierre Lallement",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pierre_Lallement"
+    },
+    {
+      "title": "Penny-farthing",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Penny-farthing"
+    },
+    {
+      "title": "Safety bicycle",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Safety_bicycle"
+    },
+    {
+      "title": "John Kemp Starley",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Kemp_Starley"
+    },
+    {
+      "title": "John Boyd Dunlop",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Boyd_Dunlop"
+    },
+    {
+      "title": "Tour de France",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tour_de_France"
+    },
+    {
+      "title": "Wright brothers",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wright_brothers"
+    },
+    {
+      "title": "Derailleur",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Derailleur"
+    },
+    {
+      "title": "Hub gear",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hub_gear"
+    },
+    {
+      "title": "Flying Pigeon",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Flying_Pigeon"
+    },
+    {
+      "title": "Mountain bike",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mountain_bike"
+    },
+    {
+      "title": "Bicycle-sharing system",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bicycle-sharing_system"
+    },
+    {
+      "title": "Electric bicycle",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Electric_bicycle"
+    },
+    {
+      "title": "A bicycle can be self-stable without gyroscopic or caster effects",
+      "publisher": "Science (2011)",
+      "url": "https://www.science.org/doi/10.1126/science.1201959"
+    },
+    {
+      "title": "Hour record",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hour_record"
+    },
+    {
+      "title": "Bicycling and feminism",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bicycling_and_feminism"
+    },
+    {
+      "title": "Annie Londonderry",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Annie_Londonderry"
+    },
+    {
+      "title": "Roller chain",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Roller_chain"
+    },
+    {
+      "title": "Bicycle wheel",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bicycle_wheel"
+    },
+    {
+      "title": "Tullio Campagnolo",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tullio_Campagnolo"
+    },
+    {
+      "title": "Coaster brake",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Coaster_brake"
+    },
+    {
+      "title": "Kirkpatrick Macmillan",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kirkpatrick_Macmillan"
+    },
+    {
+      "title": "Year Without a Summer",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Year_Without_a_Summer"
+    },
+    {
+      "title": "James Moore (cyclist)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/James_Moore_(cyclist)"
+    }
+  ]
+}
